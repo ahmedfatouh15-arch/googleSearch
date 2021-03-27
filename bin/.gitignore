@@ -1,0 +1,11 @@
+/OpenGoogleSearchPage.feature
+/SearchForOneWord.feature
+/SearchFromResultsScreen.feature
+/SearchUsingEmptyInput.feature
+/SearchUsingMultipleWords.feature
+/StepDefinition/
+/checkCountryInSearchScreenFooter.feature
+/mainPackage/
+/signInToGoogle.feature
+/testRunner/
+/validateImageSearch.feature
